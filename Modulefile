@@ -1,5 +1,5 @@
 name    'rjw1-perl_local_lib'
-version '0.0.1'
+version '0.0.2'
 source 'UNKNOWN'
 author 'rjw1'
 license 'Apache License, Version 2.0'
